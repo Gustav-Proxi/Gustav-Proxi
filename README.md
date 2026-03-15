@@ -13,12 +13,15 @@
 <a href="https://linkedin.com/in/vaishakgkumar">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://vaishakgkumar.com">
   <img src="https://img.shields.io/badge/vaishakgkumar.com-111827?style=flat-square&logo=safari&logoColor=58A6FF" />
 </a>
+&nbsp;
 <a href="mailto:vaishakgkumar@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 </a>
+&nbsp;
 <img src="https://komarev.com/ghpvc/?username=Gustav-Proxi&style=flat-square&color=58A6FF&label=visitors" />
 
 </div>
@@ -104,12 +107,12 @@ class Vaishak:
 
 <div align="center">
 
-<table>
+<table border="0" cellspacing="0" cellpadding="6">
   <tr>
-    <td>
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gustav-Proxi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" />
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Gustav-Proxi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" />
     </td>
-    <td>
+    <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustav-Proxi&theme=tokyonight&hide_border=true&layout=compact&count_private=true" />
     </td>
   </tr>
@@ -117,7 +120,7 @@ class Vaishak:
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gustav-Proxi&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=Gustav-Proxi&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
@@ -130,10 +133,6 @@ class Vaishak:
 ---
 
 <div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-<br/><br/>
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Gustav-Proxi&icon=6&color=6" />
