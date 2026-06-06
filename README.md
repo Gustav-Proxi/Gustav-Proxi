@@ -118,24 +118,11 @@ class Vaishak:
 
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="6">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Gustav-Proxi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="GitHub stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustav-Proxi&theme=tokyonight&hide_border=true&layout=compact&count_private=true" alt="Top languages" />
-    </td>
-  </tr>
-</table>
+<img src="https://raw.githubusercontent.com/Gustav-Proxi/Gustav-Proxi/main/metrics.svg" alt="GitHub metrics — stats, repositories, languages, and contribution calendar" width="100%" />
 
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=Gustav-Proxi&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Gustav-Proxi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="Trophies" />
 
 </div>
 
